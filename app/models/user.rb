@@ -2,7 +2,7 @@
 
 class User < ApplicationRecord
   has_many :posts
-  has_many :comments, through => :posts
+  has_many :comments
 
   validates :name, presence: true, length: { minimum: 4, maximum: 20 }
   VALID_EMAIL_REGEX = /\A[\w+\-.]+@[a-z\d\-]+(\.[a-z\d\-]+)*\.[a-z]+\z/i.freeze
