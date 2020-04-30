@@ -4,18 +4,18 @@ This project is the fourth project of Microverse curriculum and it is all about 
 
 ## Language used
 
-## Ruby on Rails
+- Ruby on Rails
 
-# How to install
+## How to install
 
-## git clone https://github.com/noomdalv/rails_microreddit.git
-## cd rails_microreddit
-## open it in you text editor and you can go through the files
+- git clone https://github.com/noomdalv/rails_microreddit.git
+- cd rails_microreddit
+- open it in you text editor and you can go through the files
 
 ## Contributors
 
-## sumancrest0001 (https://github.com/sumancrest0001)
-## noomdalv (https://github.com/noomdalv)
+- sumancrest0001 (https://github.com/sumancrest0001)
+- noomdalv (https://github.com/noomdalv)
 
 ## License
-MIT Licensed
+- MIT Licensed
