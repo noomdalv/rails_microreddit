@@ -1,6 +1,6 @@
 ## Microreddit
 
-This project consists in building an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it, the objective is to practice Ruby on Rails implementations of active record, models, and associations.
+This project consists in building an very junior version of Reddit, it works on the command line(rails console) where a user can create a post and add comments to it, the objective is to practice Ruby on Rails implementations of active record, models, and associations.
 
 ## Language used
 
