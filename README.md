@@ -1,6 +1,6 @@
 ## Microreddit
 
-This project is the fourth project of Microverse curriculum and it is all about manipulating the models, validations, and associations. It helps to understand how models and migration works in ruby on rail even though it is a simple project.
+This project consists in building an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it, the objective is to practice Ruby on Rails implementations of active record, models, and associations.
 
 ## Language used
 
